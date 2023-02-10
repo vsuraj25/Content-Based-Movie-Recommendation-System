@@ -2,5 +2,3 @@ pandas
 numpy
 streamlit
 nltk
-pickle
-b2z
